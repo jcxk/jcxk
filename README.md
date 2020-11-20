@@ -1,8 +1,7 @@
 ### Hello World! :globe_with_meridians:👋
 *FullStack Dev* here :raised_hand: passionate on crafting software from begin to end, do my best to improve the development cycle :loop:. 
 
-💻 Dev hints
-Actually my most recent stack is based on js as react/node/graphql, but i also worked on php stack.
+💻 Actually my most recent stack is based on js as react/node/graphql, but i also worked on php stack and ...$otherStuff .
 
 🔭 Developing some sideprojects as marvelqlous , a poc of a fullstack app from a external api , as marvel api.
 🚀 more coming very soon!
