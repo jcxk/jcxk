@@ -6,7 +6,7 @@
 🔭 Developing some sideprojects as marvelqlous , a poc of a fullstack app from a external api , as marvel api.
 🚀 more coming very soon!
 
-📫 Feel free to reach me at jceodev@gmail.com or at :briefcase: [linkedin](https://www.linkedin.com/in/jcxk) 
+📫 Feel free to reach me at jcxkdev@gmail.com or at :briefcase: [linkedin](https://www.linkedin.com/in/jcxk) 
 
 Stay safe!☣️ 
 
